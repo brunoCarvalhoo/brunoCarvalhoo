@@ -14,7 +14,7 @@ Hello There!</br>My Name is Bruno ✌🏽
 
 - 👋 Hi, I’m Bruno Carvalho 
 - 👀 I’m interested in Data Science, IoT 
-- 🌱 I’m currently learning Python, Java and SpringBoot
+- 🌱 I’m currently learning embedded systems
 - 🔍 I´m looking forward to collaborate in new projects
 - ⚡ Fun fact: Since the Release from Encanto, People don´t talk about Bruno!🤐
 
